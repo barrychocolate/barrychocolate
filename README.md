@@ -1,20 +1,10 @@
-
-Previous section
-
-buymeacoffee
-BUY ME A COFFEE:
-barrychocolate
-Previous section
-PREVIEW
-MARKDOWN
-COPY
 Hi 👋 My name is Barry Bullas
 =============================
 
 Data Scientist
 --------------
 
-* 🌍  I'm based in Newcastle upon Tyne
+* 🌍  I'm based in Newcastle upon Tyne
 
 ### Skills
 
@@ -27,9 +17,11 @@ Data Scientist
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/barrychocolate" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/barrybullasmbe/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/BarryChocolate" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
